@@ -1,0 +1,5 @@
+c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\bin\Debug\br.com.estoque207.model.dll
+c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\bin\Debug\br.com.estoque207.model.pdb
+c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\obj\Debug\br.com.estoque207.model.dll
+c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\obj\Debug\br.com.estoque207.model.pdb
+C:\Users\Jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\obj\Debug\br.com.estoque2017.model.csprojResolveAssemblyReference.cache
