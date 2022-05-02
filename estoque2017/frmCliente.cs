@@ -27,6 +27,10 @@ namespace estoque2017
             btnExcluir.Enabled = false;
             btnCancelar.Enabled = true;
             btnSair.Enabled = true;
+
+            txtEnderecoCliente.Enabled = false;
+            txtNomeCliente.Enabled = false;
+            txtIdCliente.Enabled = true;
         }
 
         public void ativaInclusao()
@@ -39,6 +43,8 @@ namespace estoque2017
             btnSair.Enabled = true;
 
             txtIdCliente.Enabled = false;
+            txtEnderecoCliente.Enabled = true;
+            txtNomeCliente.Enabled = true;
             txtNomeCliente.Focus();
         }
 
@@ -52,6 +58,8 @@ namespace estoque2017
             btnSair.Enabled = true;
 
             txtIdCliente.Enabled = false;
+            txtEnderecoCliente.Enabled = true;
+            txtNomeCliente.Enabled = true;
             txtNomeCliente.Focus();
 
         }
@@ -245,6 +253,17 @@ namespace estoque2017
                 MessageBox.Show(oErro.Message, "Erro",
                   MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            limpaTela();
+            ativaCancelar();
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }
