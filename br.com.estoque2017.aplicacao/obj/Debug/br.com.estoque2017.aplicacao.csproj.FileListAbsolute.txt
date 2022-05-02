@@ -11,3 +11,42 @@ C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\estoque2017\br.com.esto
 C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\estoque2017\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.dao.pdb
 C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\estoque2017\br.com.estoque2017.aplicacao\bin\Debug\Npgsql.xml
 C:\Users\Jefferson\Documents\Visual Studio 2015\Projects\estoque2017\br.com.estoque2017.aplicacao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.aplicacao.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.aplicacao.pdb
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.dao.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque207.model.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\Npgsql.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.dao.pdb
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque207.model.pdb
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\Npgsql.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\obj\Debug\br.com.estoque2017.aplicacao.csproj.AssemblyReference.cache
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\obj\Debug\br.com.estoque2017.aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\obj\Debug\br.com.estoque2017.aplicacao.csproj.CopyComplete
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\obj\Debug\br.com.estoque2017.aplicacao.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\obj\Debug\br.com.estoque2017.aplicacao.pdb
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.aplicacao.dll.config
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Memory.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Threading.Channels.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Text.Json.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Buffers.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.ValueTuple.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\br.com.estoque2017.dao.dll.config
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Memory.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Threading.Channels.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Text.Json.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Buffers.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque2017.aplicacao\bin\Debug\System.ValueTuple.xml

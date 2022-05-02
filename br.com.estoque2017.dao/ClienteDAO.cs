@@ -11,10 +11,10 @@ namespace br.com.estoque2017.dao
     public class ClienteDAO
     {
 
-        string conexao_postgre = @"Server=127.0.0.1;
+        string conexao_postgre = @"Server=172.17.0.1;
                                    Port=5432;
                                    User id=postgres;
-                                   Password=jlmfdisk;
+                                   Password=postdba;
                                    Database=estoque";
 
         NpgsqlConnection conexao;

@@ -3,3 +3,9 @@ c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.esto
 c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\obj\Debug\br.com.estoque207.model.dll
 c:\users\jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\obj\Debug\br.com.estoque207.model.pdb
 C:\Users\Jefferson\documents\visual studio 2015\Projects\estoque2017\br.com.estoque207.model\obj\Debug\br.com.estoque2017.model.csprojResolveAssemblyReference.cache
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque207.model\bin\Debug\br.com.estoque207.model.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque207.model\bin\Debug\br.com.estoque207.model.pdb
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque207.model\obj\Debug\br.com.estoque2017.model.csproj.AssemblyReference.cache
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque207.model\obj\Debug\br.com.estoque2017.model.csproj.CoreCompileInputs.cache
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque207.model\obj\Debug\br.com.estoque207.model.dll
+C:\Users\jeffersonpasserini\source\repos\Projeto-Curso-Csharp-WindowsForms\br.com.estoque207.model\obj\Debug\br.com.estoque207.model.pdb
